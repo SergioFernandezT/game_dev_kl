@@ -5,5 +5,5 @@ Dependencias
  pip install pygame-menu
  pip install pygame
 ```
-
-[Link](https://pygamegr.wordpress.com/)
+Referencias y ejemplos:
+[pygamegr](https://pygamegr.wordpress.com/)
