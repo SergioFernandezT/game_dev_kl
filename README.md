@@ -1,4 +1,6 @@
 # Desarrollando juegos en python, con pygame
+-Cabe aclarar que dichos desarrollos no son de mi autoria, y solo realice modificaciones para volver dichos proyectos portables.
+-
 
 Dependencias
 ```python
